@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Started as a research scientist in the Autonomous Driving Solutions (ADS) project at Akkodis Research.
-
