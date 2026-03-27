@@ -1,6 +1,6 @@
 cv:
   name: David Olivares
-  label: Research Engineer and Scientist
+  label: Research Engineer and Scientist (PhD)
   email: da.olivares@proton.me
   location: France - Paris Area
   image: ""
@@ -14,6 +14,7 @@ cv:
   sections:
     Education:
       - institution: Paris-Saclay University — ONERA — Akkodis Research
+        location: Palaiseau
         area: Learning-Based Control of a Fixed-Wing UAV (FW-UAV) Under Wind Disturbances
         studyType: PhD in Robotics
         start_date: 2022
@@ -24,6 +25,7 @@ cv:
           - Extended this work to waypoint tracking, showing TDMPC2's potential for hard waypoint tracking with complex acrobatic maneuvers and robustness to wind gusts.
 
       - institution: ECE Paris
+        location: Paris
         area: Computer Science
         studyType: Master of Science, Embedded Systems Major
         start_date: 2016
@@ -32,18 +34,18 @@ cv:
           - "Relevant courses: Robotics, Reinforcement Learning, Linux Kernel Programming, Data Structures and Algorithms."
 
       - institution: Ajou University
-        location: South Korea
+        location: South Korea - Suwon
         area: Software Engineering
-        studyType: Abroad Semester
+        studyType: Abroad Semester in South Korea
         start_date: 2018-09
         end_date: 2018-12
         highlights:
-          - "Relevant courses: System Programming (GNU/Linux Ubuntu and Raspberry Pi), Data Structures, Operating Systems, Korean."
+          - "Relevant courses: System Programming (Linux kernel programming, drivers...), Data Structures, Operating Systems, Korean language."
 
     Experience:
       - company: Akkodis Research
         position: Research Engineer
-        location: Paris Area
+        location: Paris
         start_date: 2025-01
         end_date: present
         highlights:

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: David Olivares' website # the website title (if blank, full name will be used instead)
+title: David Olivares # the website title (if blank, full name will be used instead)
 first_name: David
 middle_name:
 last_name: Olivares
